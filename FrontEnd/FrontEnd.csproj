@@ -17,5 +17,6 @@
     <PackageReference Include="Serilog.Settings.Configuration" Version="3.4.0" />
     <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="6.0.0" />
   </ItemGroup>
+	
 
 </Project>

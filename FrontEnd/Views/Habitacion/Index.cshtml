@@ -1,0 +1,44 @@
+﻿@model IEnumerable<FrontEnd.Models.HabitacionViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de habitaciones</h2>
+
+<p>
+    <a asp-action="Create">Crear nueva habitación</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Piso de la habitación
+            </th>
+            <th>
+                Tipo de habitación
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PisoHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoHabitacion.NombreTipoHabitacion)
+            </td>
+            <td>
+                    @Html.ActionLink("Editar", "Edit", new { id=item.Idhabitacion  }) |
+                    @Html.ActionLink("Detalles", "Details", new { id=item.Idhabitacion }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id=item.Idhabitacion })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

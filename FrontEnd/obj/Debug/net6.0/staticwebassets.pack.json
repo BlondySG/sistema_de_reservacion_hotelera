@@ -1,0 +1,1385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FrontEnd.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontEnd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_large_left.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_large_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_large_right.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_large_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_left.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_left2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_left2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_left3_hr.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_left3_hr.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_right.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_right2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_right2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_right3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_right3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrow_right3_hr.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrow_right3_hr.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrowleft.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrowleft.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\arrowright.png",
+      "PackagePath": "staticwebassets\\css\\assets\\arrowright.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\black50.png",
+      "PackagePath": "staticwebassets\\css\\assets\\black50.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\boxed_bgtile.png",
+      "PackagePath": "staticwebassets\\css\\assets\\boxed_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\bullet.png",
+      "PackagePath": "staticwebassets\\css\\assets\\bullet.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\bullet_boxed.png",
+      "PackagePath": "staticwebassets\\css\\assets\\bullet_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\bullets.png",
+      "PackagePath": "staticwebassets\\css\\assets\\bullets.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\bullets2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\bullets2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\css\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\grain.png",
+      "PackagePath": "staticwebassets\\css\\assets\\grain.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\large_left.png",
+      "PackagePath": "staticwebassets\\css\\assets\\large_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\large_right.png",
+      "PackagePath": "staticwebassets\\css\\assets\\large_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\css\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\navigdots.png",
+      "PackagePath": "staticwebassets\\css\\assets\\navigdots.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\navigdots_bgtile.png",
+      "PackagePath": "staticwebassets\\css\\assets\\navigdots_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\new-left-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\new-left-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\new-left-hover-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\new-left-hover-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\new-right-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\new-right-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\new-right-hover-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\new-right-hover-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\shadow1.png",
+      "PackagePath": "staticwebassets\\css\\assets\\shadow1.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\shadow2.png",
+      "PackagePath": "staticwebassets\\css\\assets\\shadow2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\shadow3.png",
+      "PackagePath": "staticwebassets\\css\\assets\\shadow3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\small_left.png",
+      "PackagePath": "staticwebassets\\css\\assets\\small_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\small_left_boxed.png",
+      "PackagePath": "staticwebassets\\css\\assets\\small_left_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\small_right.png",
+      "PackagePath": "staticwebassets\\css\\assets\\small_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\small_right_boxed.png",
+      "PackagePath": "staticwebassets\\css\\assets\\small_right_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\timer.png",
+      "PackagePath": "staticwebassets\\css\\assets\\timer.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\timerdot.png",
+      "PackagePath": "staticwebassets\\css\\assets\\timerdot.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\transparent.jpg",
+      "PackagePath": "staticwebassets\\css\\assets\\transparent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\assets\\white50.png",
+      "PackagePath": "staticwebassets\\css\\assets\\white50.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\lightslider.css",
+      "PackagePath": "staticwebassets\\css\\lightslider.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\new-left-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\new-left-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\new-left-hover-arrow.jpg",
+      "PackagePath": "staticwebassets\\css\\new-left-hover-arrow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\rev-slider\\settings.css",
+      "PackagePath": "staticwebassets\\css\\rev-slider\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\uikit.docs.min.css",
+      "PackagePath": "staticwebassets\\css\\uikit.docs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\css\\uikit.min.css",
+      "PackagePath": "staticwebassets\\css\\uikit.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-hotel-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\about-hotel-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-eight.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-eight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-five.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-five.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-four.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-four.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-one.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-seven.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-seven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-six.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-six.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-three.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-staff-two.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-staff-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\about-us-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\about-us-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\accomodation-breadcrumb-one.jpg",
+      "PackagePath": "staticwebassets\\img\\accomodation-breadcrumb-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\accomodation-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\accomodation-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\author_photo.jpg",
+      "PackagePath": "staticwebassets\\img\\author_photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic-link-bg.png",
+      "PackagePath": "staticwebassets\\img\\blog-pic-link-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\blog-pic7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\booking-step-one.jpg",
+      "PackagePath": "staticwebassets\\img\\booking-step-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\call-icon.png",
+      "PackagePath": "staticwebassets\\img\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\comment_photo_1.jpg",
+      "PackagePath": "staticwebassets\\img\\comment_photo_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\comment_photo_2.jpg",
+      "PackagePath": "staticwebassets\\img\\comment_photo_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\comment_photo_3.jpg",
+      "PackagePath": "staticwebassets\\img\\comment_photo_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\comment_photo_4.jpg",
+      "PackagePath": "staticwebassets\\img\\comment_photo_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\customer-says-one.png",
+      "PackagePath": "staticwebassets\\img\\customer-says-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\customer-slider-bg-one.png",
+      "PackagePath": "staticwebassets\\img\\customer-slider-bg-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\customer-slider-bg.png",
+      "PackagePath": "staticwebassets\\img\\customer-slider-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\discover.png",
+      "PackagePath": "staticwebassets\\img\\discover.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\dropdown_bg.png",
+      "PackagePath": "staticwebassets\\img\\dropdown_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\error_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\error_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\footer-logo-one.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\footer-map-one.png",
+      "PackagePath": "staticwebassets\\img\\footer-map-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\footer-map-two.jpg",
+      "PackagePath": "staticwebassets\\img\\footer-map-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-five.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-five.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-four.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-four.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-one.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-three.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\gallery-two.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\google-pin-one.png",
+      "PackagePath": "staticwebassets\\img\\google-pin-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\google-pin.png",
+      "PackagePath": "staticwebassets\\img\\google-pin.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-eight.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-eight.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-eleven.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-eleven.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-five.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-five.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-four.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-four.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-nine.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-nine.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-one.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-seven.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-seven.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-six.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-six.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-ten.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-ten.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-three.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-three.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-twelve.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-twelve.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\home-facilities-icon-two.png",
+      "PackagePath": "staticwebassets\\img\\home-facilities-icon-two.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\homepage.jpg",
+      "PackagePath": "staticwebassets\\img\\homepage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\hotel-facilities-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hotel-facilities-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\hotel-facility-one.jpg",
+      "PackagePath": "staticwebassets\\img\\hotel-facility-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\hotel-facility-three.jpg",
+      "PackagePath": "staticwebassets\\img\\hotel-facility-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\hotel-facility-two.jpg",
+      "PackagePath": "staticwebassets\\img\\hotel-facility-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-16.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-17.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-18.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-19.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-20.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-21.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-22.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-23.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-24.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-25.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-26.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-27.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-28.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-29.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-30.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-31.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-32.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-33.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-34.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-35.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-36.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-37.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-38.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-39.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-40.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-41.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-42.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-43.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-44.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-45.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-46.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-47.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-48.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-49.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-50.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-51.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-52.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-53.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-54.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\cS-55.jpg",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\cS-55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\lightslider-img\\controls.png",
+      "PackagePath": "staticwebassets\\img\\lightslider-img\\controls.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\maestro.png",
+      "PackagePath": "staticwebassets\\img\\maestro.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\news-one.jpg",
+      "PackagePath": "staticwebassets\\img\\news-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\news-three.jpg",
+      "PackagePath": "staticwebassets\\img\\news-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\news-two.jpg",
+      "PackagePath": "staticwebassets\\img\\news-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\nice-title-breadcrumb.png",
+      "PackagePath": "staticwebassets\\img\\nice-title-breadcrumb.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\nice-title-error.png",
+      "PackagePath": "staticwebassets\\img\\nice-title-error.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\nice-title.png",
+      "PackagePath": "staticwebassets\\img\\nice-title.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post-1.png",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post-1.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post-2.png",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post-2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post-3.png",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post-3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\recent_blog_post.png",
+      "PackagePath": "staticwebassets\\img\\recent_blog_post.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_large_left.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_large_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_large_right.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_large_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_left.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_left2.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_left2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_left3.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_left3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_left3_hr.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_left3_hr.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_right.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_right2.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_right2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_right3.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_right3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrow_right3_hr.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrow_right3_hr.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrowleft.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrowleft.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\arrowright.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\arrowright.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\black50.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\black50.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\boxed_bgtile.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\boxed_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\bullet.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\bullet.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\bullet_boxed.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\bullet_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\bullets.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\bullets.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\bullets2.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\bullets2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\grain.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\grain.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\large_left.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\large_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\large_right.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\large_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\navigdots.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\navigdots.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\navigdots_bgtile.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\navigdots_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\shadow1.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\shadow1.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\shadow2.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\shadow2.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\shadow3.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\shadow3.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\small_left.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\small_left.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\small_left_boxed.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\small_left_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\small_right.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\small_right.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\small_right_boxed.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\small_right_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\timer.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\timer.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\timerdot.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\timerdot.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\transparent.jpg",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\transparent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\rev\\assets\\white50.png",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\rev\\assets\\white50.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\slider-one.jpg",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\slider-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\rev-slider\\slider-two.jpg",
+      "PackagePath": "staticwebassets\\img\\rev-slider\\slider-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-eight.png",
+      "PackagePath": "staticwebassets\\img\\room-image-eight.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-eighteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-eighteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-eighteen.png",
+      "PackagePath": "staticwebassets\\img\\room-image-eighteen.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-eleven.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-eleven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-fifteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-fifteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-fifteen.png",
+      "PackagePath": "staticwebassets\\img\\room-image-fifteen.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-five.png",
+      "PackagePath": "staticwebassets\\img\\room-image-five.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-four.png",
+      "PackagePath": "staticwebassets\\img\\room-image-four.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-fourteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-fourteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-nine.png",
+      "PackagePath": "staticwebassets\\img\\room-image-nine.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-nineteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-nineteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-nineteen.png",
+      "PackagePath": "staticwebassets\\img\\room-image-nineteen.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-one.png",
+      "PackagePath": "staticwebassets\\img\\room-image-one.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-seven.png",
+      "PackagePath": "staticwebassets\\img\\room-image-seven.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-seventeen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-seventeen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-seventeen.png",
+      "PackagePath": "staticwebassets\\img\\room-image-seventeen.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-six.png",
+      "PackagePath": "staticwebassets\\img\\room-image-six.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-sixteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-sixteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-sixteen.png",
+      "PackagePath": "staticwebassets\\img\\room-image-sixteen.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-ten.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-ten.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-thirteen.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-thirteen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-three.png",
+      "PackagePath": "staticwebassets\\img\\room-image-three.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-twelve.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-twelve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-twenty.jpg",
+      "PackagePath": "staticwebassets\\img\\room-image-twenty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-twenty.png",
+      "PackagePath": "staticwebassets\\img\\room-image-twenty.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-image-two.png",
+      "PackagePath": "staticwebassets\\img\\room-image-two.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-thumb-one.jpg",
+      "PackagePath": "staticwebassets\\img\\room-thumb-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-thumb-three.jpg",
+      "PackagePath": "staticwebassets\\img\\room-thumb-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\room-thumb-two.jpg",
+      "PackagePath": "staticwebassets\\img\\room-thumb-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-five.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-five.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-four.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-four.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-one.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-seven.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-seven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-six.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-six.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-three.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-two.jpg",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\showcase-slider-zoom.png",
+      "PackagePath": "staticwebassets\\img\\showcase-slider-zoom.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\sing_blog_photo_1.jpg",
+      "PackagePath": "staticwebassets\\img\\sing_blog_photo_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\sing_blog_photo_2.jpg",
+      "PackagePath": "staticwebassets\\img\\sing_blog_photo_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\site-logo.png",
+      "PackagePath": "staticwebassets\\img\\site-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\special-offer-main.png",
+      "PackagePath": "staticwebassets\\img\\special-offer-main.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\special-offer-yellow-main.png",
+      "PackagePath": "staticwebassets\\img\\special-offer-yellow-main.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\special-offer-yellow.png",
+      "PackagePath": "staticwebassets\\img\\special-offer-yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\special-offer.png",
+      "PackagePath": "staticwebassets\\img\\special-offer.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\temp-icon.png",
+      "PackagePath": "staticwebassets\\img\\temp-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\img\\visa.png",
+      "PackagePath": "staticwebassets\\img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\grid.js",
+      "PackagePath": "staticwebassets\\js\\grid.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\jquery.easing.1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\lightslider.js",
+      "PackagePath": "staticwebassets\\js\\lightslider.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\rev-slider\\rs-plugin\\jquery.themepunch.plugins.min.js",
+      "PackagePath": "staticwebassets\\js\\rev-slider\\rs-plugin\\jquery.themepunch.plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\rev-slider\\rs-plugin\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\js\\rev-slider\\rs-plugin\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\rev-slider\\rs.home.js",
+      "PackagePath": "staticwebassets\\js\\rev-slider\\rs.home.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\uikit-lightbox.js",
+      "PackagePath": "staticwebassets\\js\\uikit-lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\uikit-modal.js",
+      "PackagePath": "staticwebassets\\js\\uikit-modal.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\FrontEnd\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FrontEnd.props",
+      "PackagePath": "build\\FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FrontEnd.props",
+      "PackagePath": "buildTransitive\\FrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

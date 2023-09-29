@@ -1,0 +1,45 @@
+﻿@model FrontEnd.Models.TipoHabitacionViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar</h2>
+
+<p>
+    <a>¿Está seguro que desea eliminar este tipo de habitación?</a>
+</p>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdtipoHabitacion)
+        </dd>
+        <dt>
+            Tipo de habitación
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NombreTipoHabitacion)
+        </dd>
+        <dt>
+            Costo
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CostoTipoHabitacion)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        @Html.HiddenFor(model => model.IdtipoHabitacion)
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-default" />
+        </div>
+
+        <a asp-action="Index">Regresar a lista de tipos de habitación</a>
+    </form>
+</div>

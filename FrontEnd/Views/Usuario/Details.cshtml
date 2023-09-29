@@ -1,0 +1,66 @@
+﻿@model FrontEnd.Models.UsuarioViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idusuario)
+        </dd>
+        <dt>
+            Primer nombre
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PrimerNombre)
+        </dd>
+        <dt>
+            Segundo nombre
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SegundoNombre)
+        </dd>
+        <dt>
+            Primer apellido
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PrimerApellido)
+        </dd>
+        <dt>
+            Segundo apellido
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SegundoApellido)
+        </dd>
+        <dt>
+            Usuario
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt>
+            Contraseña
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Contrasena)
+        </dd>
+        <dt>
+            Rol
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Rol.NombreRol)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Editar", "Edit", new {  id = Model.Idusuario  }) |
+    <a asp-action="Index">Regresar a la lista de usuarios</a>
+</div>

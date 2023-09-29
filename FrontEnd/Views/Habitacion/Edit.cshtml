@@ -1,0 +1,48 @@
+﻿@model FrontEnd.Models.HabitacionViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar</h2>
+
+@*<h4>HabitacionViewModel</h4>*@
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+                <label asp-for="Idhabitacion" class="control-label"></label>
+                <input asp-for="Idhabitacion" class="form-control" />
+                <span asp-validation-for="Idhabitacion" class="text-danger"></span>
+            </div>*@
+
+            <input type="hidden" asp-for="Idhabitacion" />
+
+            <div class="form-group">
+                <label asp-for="PisoHabitacion" class="control-label">Piso de la habitación</label>
+                <input asp-for="PisoHabitacion" class="form-control" />
+                <span asp-validation-for="PisoHabitacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdtipoHabitacion" class="control-label">Tipo habitación</label>
+                @Html.DropDownListFor(model => model.IdtipoHabitacion, new SelectList(Model.tipoHabitaciones, "IdtipoHabitacion", "NombreTipoHabitacion"), "--Seleccione Tipo Habitación--", new { @class="form-control"})
+
+                <span asp-validation-for="IdtipoHabitacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar a la lista de habitaciones</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

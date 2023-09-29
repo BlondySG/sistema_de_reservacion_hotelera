@@ -1,0 +1,43 @@
+﻿@model FrontEnd.Models.TipoHabitacionViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdtipoHabitacion" class="control-label"></label>
+                <input asp-for="IdtipoHabitacion" class="form-control" readonly />
+                <span asp-validation-for="IdtipoHabitacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreTipoHabitacion" class="control-label">Tipo de habitación</label>
+                <input asp-for="NombreTipoHabitacion" class="form-control" />
+                <span asp-validation-for="NombreTipoHabitacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostoTipoHabitacion" class="control-label">Costo</label>
+                <input asp-for="CostoTipoHabitacion" class="form-control" />
+                <span asp-validation-for="CostoTipoHabitacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar a lista de tipos de habitación</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

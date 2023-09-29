@@ -1,0 +1,70 @@
+﻿@model FrontEnd.Models.ReservacionesViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Eliminar</h2>
+
+<p>
+    <a>¿Está seguro que desea eliminar esta reservación?</a>
+</p>
+
+<div>
+    @*<h4>ReservacionesViewModel</h4>*@
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idreservacion)
+        </dd>
+        <dt>
+            Fecha inicio
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FechaInicio)
+        </dd>
+        <dt>
+            Cantidad noches
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CantidadNoches)
+        </dd>
+        <dt>
+            Nombre de cliente
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+        <dt>
+            Cédula de cliente
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CedulaCliente)
+        </dd>
+        <dt>
+            Habitación
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idhabitacion)
+        </dd>
+        <dt>
+            Usuario
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idusuario)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        @Html.HiddenFor(model => model.Idreservacion)
+        <div class="form-group">
+            <input type="submit" value="Eliminar" class="btn btn-default" />
+        </div>
+
+        <a asp-action="Index">Regresar a la lista de reservaciones</a>
+    </form>
+</div>

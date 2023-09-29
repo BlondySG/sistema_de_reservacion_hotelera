@@ -1,0 +1,52 @@
+﻿@model IEnumerable<FrontEnd.Models.TipoHabitacionViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de tipos de habitación</h2>
+
+<p>
+    <a asp-action="Create">Crear nuevo tipo de habitación</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>
+                @Html.DisplayNameFor(model => model.IdtipoHabitacion)
+            </th>*@
+            <th>
+                @*@Html.DisplayNameFor(model => model.NombreTipoHabitacion)*@
+                Tipo de habitación
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostoTipoHabitacion)
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.IdtipoHabitacion)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreTipoHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CostoTipoHabitacion)
+            </td>
+            <td>
+                    @Html.ActionLink("Editar", "Edit", new { id=item.IdtipoHabitacion  }) |
+                    @Html.ActionLink("Detalles", "Details", new {  id=item.IdtipoHabitacion }) |
+                    @Html.ActionLink("Eliminar", "Delete", new {  id=item.IdtipoHabitacion })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

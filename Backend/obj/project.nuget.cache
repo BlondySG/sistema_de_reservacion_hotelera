@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "Rofx31EgmsJdvUWocaj6i3vpjT4HucfL/jbSkz07xfT4PGN5N0M5SKvtKjmN3KNtktwSCiSxFR8zL9Q9GE5T4w==",
-  "success": false,
+  "dgSpecHash": "JGBEYJLazTN0TB8SslzlhyQc3Usi46b41btXYkwselrWBpZCNnbF4HBANy/01dg7v/furWuP65egA0qODxdcZQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blond\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -82,15 +82,5 @@
     "C:\\Users\\blond\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\blond\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

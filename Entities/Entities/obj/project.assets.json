@@ -2969,7 +2969,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.10",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.10",
@@ -3010,11 +3009,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj": {
-              "projectPath": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -3073,16 +3068,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

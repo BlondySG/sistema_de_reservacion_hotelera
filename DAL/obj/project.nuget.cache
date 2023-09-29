@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "Kmbk+vo4TpXXWJSeN89B8XuYp/onR05X9mP6Esd3+ZNR4lyOuSmcUmHfCtXyZuU7Cp7QwoCQ8k0NkMX4VPKwGQ==",
-  "success": false,
+  "dgSpecHash": "3YtHI3/eVsE9i1qeup91FDtZfe7eyL/9MQObQIyweasy3V4F8q8t4HyJpur89x6tBdG3VjAQoL/3VV38dKQ/Ow==",
+  "success": true,
   "projectFilePath": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blond\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -74,15 +74,5 @@
     "C:\\Users\\blond\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\blond\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

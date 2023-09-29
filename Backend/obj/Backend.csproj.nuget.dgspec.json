@@ -175,11 +175,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj": {
-                "projectPath": "C:\\Users\\blond\\source\\repos\\Workspaces\\sistema_de_reservacion_hotelera\\Entities\\Backend\\Backend.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
